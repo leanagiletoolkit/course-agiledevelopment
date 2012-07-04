@@ -1,8 +1,8 @@
-### Agile Development Course
+# Agile Development Course
 
 uses [https://github.com/softprops/picture-show](Picture Show) to generate content.  
 
-latest slideware [http://leanagiletoolkit.com/course-agiledevelopment](here).
+latest slideware [http://leanagiletoolkit.com/course-agiledevelopment](here) .
 
 ## TODO (courseware)
 * Collate slides, source code examples and training/course notes.
